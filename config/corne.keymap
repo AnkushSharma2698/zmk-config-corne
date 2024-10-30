@@ -9,6 +9,7 @@
 #include <dt-bindings/zmk/bt.h>
 
 // LAYERS
+
 #define DEFAULT 0
 #define LOWER 1
 #define RAISE 2
